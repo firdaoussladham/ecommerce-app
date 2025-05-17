@@ -1,12 +1,36 @@
-# React + Vite
+# E-commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive E-commerce website built with **React.js**, **Vite**, **Tailwind CSS**, **Lucide Icons**, **React Slick**, and **DaisyUI**.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Fast and optimized frontend with Vite as the build tool
+- Responsive UI powered by **Tailwind CSS** and **DaisyUI**
+- Iconography using **Lucide Icons** for clean, customizable icons
+- Product carousels and sliders implemented with **React Slick**
+- User-friendly product browsing and shopping experience
+- Modern and clean design with utility-first CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Technologies Used
+
+- [React.js](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [DaisyUI](https://daisyui.com/)
+- [Lucide Icons](https://lucide.dev/)
+- [React Slick](https://react-slick.neostack.com/)
+
+---
+
+
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/ecommerce-app.git
+cd ecommerce-app
+npm install
+npm run dev
